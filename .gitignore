@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Large files
+goodreads_books_comics_graphic.json
+goodreads_interactions_comics_graphic.json
+goodreads_reviews_comics_graphic.json
+
+# Rando system
+.DS_Store
